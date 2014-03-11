@@ -1,0 +1,11 @@
+.about-me {
+    text-align: justify;
+    line-height: 50%;
+}
+.div-right{
+    float: right;
+    margin-left: 50px;
+}
+.div-left{
+    float: left;
+}
